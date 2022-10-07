@@ -62,6 +62,18 @@ fun main(args: Array<String>) {
     val multiply = number*number
     println(number*number)
 
+    println("Please Enter a number")
+
+   // val number = readLine()?:""
+
+//    val numberInt = number.toInt()
+//    println("Convertet to Int$numberInt new Type is${numberInt::class.java}")
+
+    val numberFloat = number.toFloat()
+
+    println("The result is ${numberFloat::class.java}")
+
+
 
 
 
