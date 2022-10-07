@@ -1,80 +1,31 @@
 const val url = "www.malikfaisal.com"
 
 fun main(args: Array<String>) {
+    //Operators
 
-    var myDogNameChangeAble = "Silva"
-    val myDogName:String = "Money"
+    println("Please Enter the amount u have in the bank")
 
-    println(myDogNameChangeAble)
+    val amount = readLine()?:""
 
+    val amountNumber = amount.toDouble()
 
-    //Draw a bunny
+    val interestRate = 5.5/100
 
+    val numYears = 5
 
-    println("(\\(\\")
-    println("(-.-)")
-    println("0_(\")(\")")
+    val amountRate = amountNumber*(1+(interestRate*numYears))
 
-
-    //Length of a String
-//Trim Function dosen't remove spaces in the middle
-    val myName ="Malik Faisal Hakim  ".trim()
-
-    println(myName.length)
-    println(myName.capitalize())
-    println(myName.decapitalize())
-
-    //getPosition of a character
-
-    println(myName.get(4))
-    println(myName[4])
-
-    //Get PART OF STRING
-
-    println(myName.substring(3))
-
-    /**
-     * A client has purchased a number of products that have a certain price
-
-    Print out the total amount that the client needs to pay
-
-    val client = “Mary”
-    val products = 3
-    val price = 30
-
-     */
-
-    val clientName = "Mary"
-    val numProducts = 3
-    val priceProduct=30
-
-    println("Hello $clientName The total amount to be paid is ${numProducts * priceProduct}")
+    println("The user will have $amountRate in $numYears Years")
 
 
-    println(url)
+    val cows=6
+    val cowMilk=0
+    val children=0
 
 
-    println("Enter a Number")
+    val funding = (cows<=5 && cowMilk>=1 ) || children+2 >3
 
-    val numberInput = readLine()?:""
-    val number =numberInput.toInt()
-
-    val multiply = number*number
-    println(number*number)
-
-    println("Please Enter a number")
-
-   // val number = readLine()?:""
-
-//    val numberInt = number.toInt()
-//    println("Convertet to Int$numberInt new Type is${numberInt::class.java}")
-
-    val numberFloat = number.toFloat()
-
-    println("The result is ${numberFloat::class.java}")
-
-
-
+    println("The family is Eligable for funding $funding")
 
 
 
