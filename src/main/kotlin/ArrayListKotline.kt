@@ -63,7 +63,7 @@ class ArrayListKotline {
 
 
 
-        var bestFriends = arrayListOf("Jack","Alves","Jalal","Nasim","Saber","Wasim","Taban")
+        var bestFriends = arrayListOf("Jack","Alves","Jalal","Nasim","Saber","Wasim","Taban",null)
 
         var removeFriends = listOf("Jack","Alves","Saber")
 
