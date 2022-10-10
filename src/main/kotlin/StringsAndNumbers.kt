@@ -50,6 +50,7 @@ class StringsAndNumbers {
         println("Hello $clientName The total amount to be paid is ${numProducts * priceProduct}")
 
 
+        var url ="Google.com"
         println(url)
 
 
