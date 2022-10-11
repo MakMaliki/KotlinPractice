@@ -1,3 +1,5 @@
+package collections
+
 class ListFunctions {
     fun main (){
         var bestPlanguages= listOf("Kotline","Java","Python","C++","Swift","Kotline")

@@ -1,11 +1,13 @@
+package collections
+
 class HashSet {
 
     fun main(){
 
-        //Mutable set of items called HashSet
+        //Mutable set of items called collections.HashSet
 
-        //HashSet ,
-        //  Mutable set HashSet
+        //collections.HashSet ,
+        //  Mutable set collections.HashSet
         //    not duplicate items
 
         var scores = hashSetOf(22,33,44,55,55)
@@ -17,7 +19,7 @@ class HashSet {
         //  print(scores)
         //print(newScores)
 
-//a new HashSet
+//a new collections.HashSet
         var mathScores = hashSetOf(883,44,333)
         println(mathScores)
 

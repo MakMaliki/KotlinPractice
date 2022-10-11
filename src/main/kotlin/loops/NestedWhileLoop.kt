@@ -1,3 +1,5 @@
+package loops
+
 class NestedWhileLoop {
     fun  main(){
 //    var number=10

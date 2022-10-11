@@ -1,6 +1,8 @@
+package ExceptionHandling
+
 class Exceptions {
     fun main(){
-//Exceptions
+//ExceptionHandling.Exceptions
         //All exceptions have a 1) Message 2)Stack Trace 3) Optionally a cause
 
 //    var number = readLine()
@@ -8,7 +10,7 @@ class Exceptions {
         // println(number?.toInt())
 
 
-        //Manage Exceptions -> TRY catch
+        //Manage ExceptionHandling.Exceptions -> TRY catch
 
 //    try {
 //        println(number?.toInt())
@@ -19,7 +21,7 @@ class Exceptions {
 //    }
 
 
-        //Exceptions - Finally A block will be executed whether an exception  has occurred or not
+        //ExceptionHandling.Exceptions - Finally A block will be executed whether an exception  has occurred or not
 //
 //    try {
 //        println(number?.toInt())

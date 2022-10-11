@@ -1,3 +1,5 @@
+package functions
+
 class whenStatement {
 fun main(){
 

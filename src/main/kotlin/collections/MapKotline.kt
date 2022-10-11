@@ -1,3 +1,5 @@
+package collections
+
 class MapKotline {
     fun main(){
 

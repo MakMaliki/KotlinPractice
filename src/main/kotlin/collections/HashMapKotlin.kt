@@ -1,3 +1,5 @@
+package collections
+
 class HashMapKotlin {
     fun main(){
 

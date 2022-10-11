@@ -1,9 +1,11 @@
+package ExceptionHandling
+
 class Nullability {
 
     /**If u use a null value and do an operation
     * with it The program will crash and throw Null Pointer Exception
     * Kotline Guard Against  null Values   ? */
-    //Operators
+    //Extra.Operators
 fun main() {
         var dogName: String? = "Silva"
         dogName = "sdfa"

@@ -1,3 +1,5 @@
+package functions
+
 class TypeConversion {
 
     fun main(args: Array<String>) {

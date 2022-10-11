@@ -1,3 +1,5 @@
+package collections
+
 class CollectionsKotline {
     fun main(){
 //Collections

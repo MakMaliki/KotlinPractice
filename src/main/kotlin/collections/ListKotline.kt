@@ -1,3 +1,5 @@
+package collections
+
 class ListKotline {
 
     fun main()

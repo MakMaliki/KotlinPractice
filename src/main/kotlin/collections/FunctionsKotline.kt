@@ -1,3 +1,5 @@
+package collections
+
 class FunctionsKotline {
 
     fun main(){

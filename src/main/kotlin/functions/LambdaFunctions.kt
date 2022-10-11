@@ -1,3 +1,5 @@
+package functions
+
 class LambdaFunctions {
     fun main(){
 
@@ -23,7 +25,7 @@ class LambdaFunctions {
         val myLambda = {name:String-> println("Hello there $name") }
 
         //We can directly pass lambda as a parameter or out function paramter
-        // sayHello(names,myLambda)
+        // collections.functions.sayHello(names,myLambda)
 
         sayHello(names) {name:String-> println("Hello there $name") }
 //
@@ -41,7 +43,7 @@ class LambdaFunctions {
 //    println(numbers)
 //    var lambda ={num:Int -> num/10}
 //
-//   var newNumbers = update(numbers) {num-> num/10}
+//   var newNumbers = functions.update(numbers) {num-> num/10}
 //
 //    println(newNumbers)
 

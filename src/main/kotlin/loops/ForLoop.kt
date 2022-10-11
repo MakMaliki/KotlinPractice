@@ -1,3 +1,5 @@
+package loops
+
 class ForLoop {
     fun main(){
         //For Loop Kotline
