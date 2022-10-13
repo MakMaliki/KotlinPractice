@@ -3,7 +3,6 @@ package collections
 class ArrayListKotline {
 
     fun main(){
-
         //// ArrayList - Mutable(ChangeAble) List of items
 //    var colors = arrayListOf("White","Black","Red","Green","Blue");
 //
