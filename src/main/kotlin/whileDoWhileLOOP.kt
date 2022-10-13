@@ -1,5 +1,0 @@
-class whileDoWhileLOOP {
-    fun main(){
-
-    }
-}
