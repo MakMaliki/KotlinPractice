@@ -9,8 +9,6 @@ class ArrayListKotline {
 //    //We can define empty Arraylist but we have to Define type of its items
 //
 //    var colors2 = arrayListOf<String>()
-//
-//
 //    //We can add Items to an ArrayList using add() method
 //
 //    colors.add("Pink")
