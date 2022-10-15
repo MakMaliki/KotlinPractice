@@ -15,7 +15,6 @@ fun main(){
     var ronaldoScore:Int=0
     var kakaScore:Int=0
 
-
     var winner= when(number){
         1,2,3 -> "Messi"
         4,5,6 -> "Ronaldo"
@@ -37,7 +36,5 @@ fun main(){
     }
 
     println("The month $item has $numDays Days")
-
-
 }
 }
