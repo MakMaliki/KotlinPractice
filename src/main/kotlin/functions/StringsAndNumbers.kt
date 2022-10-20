@@ -7,8 +7,6 @@ class StringsAndNumbers {
         val myDogName:String = "Money"
 
         println(myDogNameChangeAble)
-
-
         //Draw a bunny
 
 
