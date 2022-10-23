@@ -9,8 +9,6 @@ fun main(args: Array<String>){
     val yourCar = Car("Merceds")
 
     val hisCar = Car()
-    
-
 
 }
 //Different Ways to create a class
