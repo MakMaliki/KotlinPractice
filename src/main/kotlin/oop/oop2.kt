@@ -1,12 +1,12 @@
 fun main(args: Array<String>){
     println("Hello Program")
 
-   var animal = Animal()
+   var animal = Animal12()
     animal.name = "Lion"
     animal.topSpeed = 2300
     animal.run()
 
-    var animal1 = Animal()
+    var animal1 = Animal12()
     animal1.name = "Cat"
     animal1.topSpeed = 1300
     animal1.run()
@@ -16,7 +16,7 @@ fun main(args: Array<String>){
     println(math1.add(3,4))
 
 }
-class Animal{
+class Animal12{
 
     var name = ""
     var topSpeed = 0

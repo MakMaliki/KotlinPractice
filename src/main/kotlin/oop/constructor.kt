@@ -4,17 +4,16 @@ fun main(args: Array<String>){
 
   //  defines set of variable that are available at the creation of an object
 
-    val myCar = Car("BMW",2300)
+    val myCar = Car12("BMW",2300)
 
-    val yourCar = Car("Merceds")
+    val yourCar = Car12("Merceds")
 
-    val hisCar = Car()
+    val hisCar = Car12()
 
 }
 //Different Ways to create a class
 
-class Car{
-
+class Car12{
     constructor(){
         model ="No Model"
         topSpeed =160

@@ -1,0 +1,4 @@
+package standardFunctions
+
+class letExamples {
+}

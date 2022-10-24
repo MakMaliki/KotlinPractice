@@ -1,0 +1,33 @@
+
+//Standard Functions -> Scope Functions
+
+// a set of functions that you can apply to an object that will take a lambda expression and give u some result
+in the contest of that object
+
+//Standard Functions let, with, run,apply, also,takeif, takeunless
+
+Execute in a context of an object
+
+we can apply a function to an object to give us some result
+
+Creates temporary scope while the code is executes
+
+
+5 Scope Function
+
+let
+with
+run
+apply
+also
+
+takeIf takeunless
+
+
+Let Function
+
+Allow us to run code on an Object
+We can access result as a lambda agrument
+
+
+
