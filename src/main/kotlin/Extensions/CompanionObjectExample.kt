@@ -1,0 +1,4 @@
+package Extensions
+//
+class CompanionObjectExample {
+}
