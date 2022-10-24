@@ -1,7 +1,6 @@
 package collections
 
 class FunctionsKotline {
-
     fun main(){
 
 //    var index =5

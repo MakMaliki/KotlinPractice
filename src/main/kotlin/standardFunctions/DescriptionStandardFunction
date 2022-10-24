@@ -1,0 +1,84 @@
+
+//Standard Functions -> Scope Functions
+
+// a set of functions that you can apply to an object that will take a lambda expression and give u some result
+in the contest of that object
+
+//Standard Functions let, with, run,apply, also,takeif, takeunless
+
+Execute in a context of an object
+
+we can apply a function to an object to give us some result
+
+Creates temporary scope while the code is executes
+
+
+5 Scope Function
+
+let
+with
+run
+apply
+also
+
+takeIf takeunless
+
+
+Let Function
+
+Allow us to run code on an Object
+We can access result as a lambda agrument
+
+A very common use case of let is to filter for non null Variables
+
+val name = readLine
+
+name?.let{
+println("Your name is $name")}
+
+
+With Function
+perform a block of code on Object
+Can access object variables and methods
+
+
+common use
+
+1) perform  Initialization on an Object
+2) perform sequence of actions on an Object
+
+
+
+Run Function
+
+Same as with but invokes an extension function
+
+Useful when you need  a result from a lambda
+can be used to limit scope of variables
+
+
+Apply Function
+
+can be used to apply some functionality and return the result
+
+Return the initial object
+
+common use case is applying configuration to an object creation
+
+
+Also Function
+
+it is exactly like Apply Function
+use to perform some additional actions on an Object
+
+Common use case is adding some action that won't affect Object Creation like
+Logging, Debugging,
+
+
+TakeIf,TakeUnless
+
+Return the object if the predict values to be true otherwise it returns unless
+
+
+
+
