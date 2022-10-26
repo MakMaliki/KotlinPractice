@@ -1,0 +1,19 @@
+
+Interfaces
+
+Is a defition of part of a class
+Tells you what a class or object can do
+object can access other objects through their Interfaces
+
+very similar to Abstract class
+
+
+
+Class can implement multiple Interfaces
+An interface not have a constructor
+
+Interface can implement methods but does not have to do it, don't need to
+
+Interface can assign a value but can update a value member
+
+An Iterface can Inherit from Another Interface
