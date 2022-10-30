@@ -15,7 +15,6 @@ class Operators {
 
         println("The user will have $amountRate in $numYears Years")
 
-
         val cows=6
         val cowMilk=0
         val children=0
