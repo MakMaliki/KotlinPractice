@@ -6,9 +6,7 @@ class ShortIfandIf {
 
         //Short If
 
-
         //Expresssion is something that returns a value
-
 
         //Exercise
 
