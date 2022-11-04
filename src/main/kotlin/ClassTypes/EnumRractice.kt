@@ -3,7 +3,6 @@ package ClassTypes
 import kotlin.random.Random
 
 fun main(){
-
 //    var currentState = GameStates.STARTED
 //
 //    for (i in 1..3){

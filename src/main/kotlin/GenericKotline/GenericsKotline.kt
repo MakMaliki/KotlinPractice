@@ -10,7 +10,6 @@ fun main(){
     val box3= Box<ArrayList<String>>()
     box3.display(arrayListOf("Malik","Faisal"))
 
-
     val box4= Box<NewCar>()
     box4.display( NewCar())
 
