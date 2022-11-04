@@ -5,7 +5,6 @@ class Operators {
     fun main(){
         println("Please Enter the amount u have in the bank")
         val amount = readLine()?:""
-
         val amountNumber = amount.toDouble()
 
         val interestRate = 5.5/100
@@ -15,7 +14,6 @@ class Operators {
         val amountRate = amountNumber*(1+(interestRate*numYears))
 
         println("The user will have $amountRate in $numYears Years")
-
 
         val cows=6
         val cowMilk=0

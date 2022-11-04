@@ -2,8 +2,6 @@ package TypeCasting
 //IS AND AS
 
 //IS checks whether an object is of a certain type
-
-
 fun main(){
     val value ="Testing strings"
 
