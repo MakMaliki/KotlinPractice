@@ -56,8 +56,6 @@ object Repository1 {
     }
 
 }
-
-
 //A class which functionalities are not implemented as of now
 sealed class Result1
 data class Success(val dataFetched: String?) : Result1()
