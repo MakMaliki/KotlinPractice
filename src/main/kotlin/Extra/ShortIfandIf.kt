@@ -4,7 +4,6 @@ class ShortIfandIf {
     fun main(){
         //If Statement
         //Short If
-
         //Expresssion is something that returns a value
 
         //Exercise
