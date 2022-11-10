@@ -1,8 +1,6 @@
 package extenstionFunction
 
 
-
-
 fun main(){
 
     var list = mutableListOf(1,3,4,6)
