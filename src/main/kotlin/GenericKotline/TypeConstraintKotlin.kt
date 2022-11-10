@@ -6,7 +6,6 @@ fun main(){
 val chef1 = Chef<Apple>()
     chef1.cook(Apple())
 }
-
 abstract class Fruit {
     abstract fun peel()
 }
@@ -23,7 +22,6 @@ class Banana:Fruit(){
 
     }
 }
-
 class Chef<T:Fruit>{
     fun cook(item:T){
         item.peel()

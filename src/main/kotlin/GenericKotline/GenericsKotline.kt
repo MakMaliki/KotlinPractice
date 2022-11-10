@@ -1,7 +1,6 @@
 package GenericKotline
 fun main(){
     val box = Box<String>()
-
     box.display("item")
 
     val box2= Box<Int>()
@@ -27,7 +26,6 @@ class Box<T>{
         println(item)
     }
 }
-
 class Box2<T,U>{
 
     fun display(item:T,unit:U){
