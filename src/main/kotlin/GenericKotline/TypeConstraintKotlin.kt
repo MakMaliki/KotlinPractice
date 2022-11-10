@@ -15,11 +15,9 @@ class Apple:Fruit(){
         println("Peeling the Apple")
     }
 }
-
 class Banana:Fruit(){
     override fun peel() {
         println("Peeling the Banana")
-
     }
 }
 class Chef<T:Fruit>{
