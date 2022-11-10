@@ -29,7 +29,6 @@ fun main() {
         //For that purpose we use other type of methods
 
         var number: Int? = 121
-
         println(number?.plus(23))
         println(number?.div(2))
         println(number?.minus(22))

@@ -10,8 +10,6 @@ fun main(){
 //
 //        currentState = changeState(currentState)
 //    }
-
-
     val olympic = Olympic()
     val poitionMichelPhilips =5
     println( olympic.getMedalTypeByPosition(poitionMichelPhilips).name)
