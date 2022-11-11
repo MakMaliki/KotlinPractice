@@ -4,7 +4,6 @@ package Extensions
 //Adding functionality to a class that we don't own or cannot modify
 //Can extend , Functions, Properties, Companion Objects
 //Can access object using this reference
-
 //It is a shortcut to make functions available using the usual Object.function
 
 //The original class is not actually modified
