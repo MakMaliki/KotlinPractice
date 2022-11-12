@@ -7,8 +7,6 @@ package ClassTypes
 //The constants have properties
 
 
-
-
 fun main(){
 
     println(decideColor(Colors.RED))
