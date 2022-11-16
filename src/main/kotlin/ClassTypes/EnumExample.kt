@@ -6,7 +6,6 @@ package ClassTypes
 
 //The constants have properties
 
-
 fun main(){
 
     println(decideColor(Colors.RED))
@@ -22,8 +21,6 @@ fun main(){
 
 //ordinal
     println(EnumColorsProperties.RED.ordinal)
-
-
 
 
 }
