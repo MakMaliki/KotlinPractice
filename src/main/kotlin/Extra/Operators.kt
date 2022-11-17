@@ -1,7 +1,6 @@
 package Extra
 
 class Operators {
-
     fun main(){
         println("Please Enter the amount u have in the bank")
         val amount = readLine()?:""
