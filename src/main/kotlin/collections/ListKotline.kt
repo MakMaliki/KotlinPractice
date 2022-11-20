@@ -10,7 +10,6 @@ class ListKotline {
 //Ordered Collection of Items That are not changeable -- Immutable
 // can contain duplicate elements
 
-
         var names = listOf("Malik", "Faisal",9032,33.3,32f)
 
         println(names)
