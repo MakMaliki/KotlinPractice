@@ -1,6 +1,4 @@
 package standardFunctions
-
-
 fun main(){
 
     var bicycle = MotorCycle().apply {
