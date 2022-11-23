@@ -6,7 +6,6 @@ fun main(){
 val chef1 = Chef<Apple>()
     chef1.cook(Apple())
 }
-
 abstract class Fruit {
     abstract fun peel()
 }
