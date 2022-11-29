@@ -1,7 +1,5 @@
 
 fun main(args: Array<String>) {
-
-
     //An object is an instance of a class
 
     val myCar = Car()
@@ -31,8 +29,6 @@ fun main(args: Array<String>) {
     dog.topSpeed =333
     dog.name ="Money"
     dog.run()
-
-
 }
 
 //a class is a blueprint for components and Objects
