@@ -1,5 +1,4 @@
 package ExceptionHandling
-
 class NotNullAssertion {
 
     fun main(){
