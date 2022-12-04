@@ -5,7 +5,6 @@ package ClassTypes
 //The constants defined are Objects
 
 //The constants have properties
-
 fun main(){
 
     println(decideColor(Colors.RED))
