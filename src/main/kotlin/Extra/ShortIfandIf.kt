@@ -7,7 +7,6 @@ class ShortIfandIf {
         //Expresssion is something that returns a value
 
         //Exercise
-
         println("Do you have the car keys ?")
 
         val input = readLine()?:"noidea"
