@@ -8,7 +8,6 @@ class NotNullAssertion {
 
         println("The result is ${myDogName?:"Silva"}")
 
-
         //Null Assertion
 
         // !! Developer gurantee that the value won't be null
