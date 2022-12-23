@@ -4,9 +4,7 @@ class LambdaFunctions {
     fun main(){
 
         //Lambdas Functions
-
         //Lambda is an anonymous function (has no name)
-
         //Lambda functions can have parameters
         // they are declared at the start of the block
        // {name:String -> print("Hello $name")}
