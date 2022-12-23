@@ -1,4 +1,3 @@
 package Extensions
 class CompanionObjectExample {
-  
 }
