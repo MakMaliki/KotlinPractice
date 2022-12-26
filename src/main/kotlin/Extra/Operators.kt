@@ -22,7 +22,5 @@ class Operators {
         val funding = (cows<=5 && cowMilk>=1 ) || children+2 >3
 
         println("The family is Eligable for funding $funding")
-
-
     }
 }
