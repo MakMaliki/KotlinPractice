@@ -3,7 +3,6 @@ class NotNullAssertion {
 
     fun main(){
 //Elvis Operator ?:
-
         var myDogName:String?= null
 
         println("The result is ${myDogName?:"Silva"}")
