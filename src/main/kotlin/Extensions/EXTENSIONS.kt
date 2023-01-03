@@ -15,7 +15,6 @@ fun main(){
 }
 fun String.slim() = this.substring(1,length-1)
 
-
 //Extension Properties
 
 //Can add properties to classes , similar way to functions
