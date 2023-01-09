@@ -6,7 +6,6 @@ import javax.crypto.Mac
 
 //Useful in When Expression
 
-
 fun main() {
 //    val myVehicle = getVehicle()
 //
